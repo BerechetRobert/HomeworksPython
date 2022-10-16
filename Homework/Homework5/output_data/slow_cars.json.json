@@ -1,0 +1,23 @@
+[
+    {
+        "Brand": "Opel",
+        "Model": "Astra",
+        "Hp": "101",
+        "Price": "3300",
+        "Id": "35618ea5-4d65-11ed-ae78-645d863f5687"
+    },
+    {
+        "Brand": "Ford",
+        "Model": "Focus",
+        "Hp": "80",
+        "Price": "1200",
+        "Id": "3561dc94-4d65-11ed-b391-645d863f5687"
+    },
+    {
+        "Brand": "Dacia",
+        "Model": "Logan",
+        "Hp": "99",
+        "Price": "2400",
+        "Id": "3561dc96-4d65-11ed-8410-645d863f5687"
+    }
+]

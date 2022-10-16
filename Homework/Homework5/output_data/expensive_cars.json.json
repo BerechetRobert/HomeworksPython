@@ -1,0 +1,16 @@
+[
+    {
+        "Brand": "Renault",
+        "Model": "Megane",
+        "Hp": "220",
+        "Price": "8000",
+        "Id": "3561dc97-4d65-11ed-95f4-645d863f5687"
+    },
+    {
+        "Brand": "Renault",
+        "Model": "Laguna",
+        "Hp": "190",
+        "Price": "10000",
+        "Id": "3561dc98-4d65-11ed-9aae-645d863f5687"
+    }
+]
